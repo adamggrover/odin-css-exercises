@@ -6,3 +6,4 @@ Six exercises from the Odin Project to learn CSS principles.
 2. Use both class and id selectors to style different elements
 3. Grouping selectors. Create buttons with some shared styling and some unique.
 4. Chaining selectors. Chain selectors together so each image has a unique style applied
+6. Fix the cascade. Change slectors/combinators on the supplied css file so the webpage looks as intended.
